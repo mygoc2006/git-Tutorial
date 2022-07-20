@@ -1,2 +1,1 @@
 This is a sample text file, text is ok
-file updated. some code changes update
